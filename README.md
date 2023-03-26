@@ -1,5 +1,7 @@
 # openai-chatbot-poc
 
+Reference: https://youtu.be/OWx49w-Zdhs
+
 Chatbot trained using your own dataset with OpenAI's GPT models (https://platform.openai.com/docs/models/gpt-3)
 
 Usage:
